@@ -15,6 +15,37 @@ namespace RDL2
             List<Student> list = new List<Student>
 
             {
+                  new Student
+
+                {
+
+                    StudentID = 2,
+
+                    Name = "Rohit2",
+
+                    Address = "Uttar Pradesh, Allahabad",
+
+                    Marks = 90,
+
+                    DateofBirth = Convert.ToDateTime("4-Feb-1991")
+
+                },
+
+                  new Student
+
+                {
+
+                    StudentID = 2,
+
+                    Name = "Rohit2",
+
+                    Address = "Uttar Pradesh, Allahabad",
+
+                    Marks = 99,
+
+                    DateofBirth = Convert.ToDateTime("4-Feb-1991")
+
+                },
 
                 new Student
 
